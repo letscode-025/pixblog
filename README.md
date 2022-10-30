@@ -6,8 +6,8 @@
 - Functionalities like Social Media Involvement, Uploading New Blogs, and Commenting will be updated soon.
 
 ### Technologies used are as follows:
-  1.HTML, CSS
-  2.Scripting - JavaScript
+- HTML, CSS
+- Scripting - JavaScript
 
 ### Tools and Services
   1.IDE: Visual Studio Code

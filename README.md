@@ -3,7 +3,7 @@
 
 ### Functionalities of this website are:
     1.Right now this website is holding only good visual contents<br/>
-  2.Functionalities like Social Media Involvement, Uploading New Blogs, and Commenting will be updated soon.
+    2.Functionalities like Social Media Involvement, Uploading New Blogs, and Commenting will be updated soon.
 
 ### Technologies used are as follows:
   1.HTML, CSS
